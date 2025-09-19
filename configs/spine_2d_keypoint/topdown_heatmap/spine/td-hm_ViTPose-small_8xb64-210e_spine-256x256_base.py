@@ -80,7 +80,7 @@ model = dict(
 # base dataset settings
 dataset_type = 'SpineDataset'
 data_mode = 'topdown'
-data_root = '/workspace/Spine/data/spine_152'
+data_root = '/workspace/PedScrew2D/data/spine_152'
 
 # pipelines
 train_pipeline = [

@@ -108,7 +108,8 @@ venv.bak/
 # custom
 mmpose/.mim
 /models
-/data
+/data/spine_258/masks
+/data/spine_258/viz
 .vscode
 .idea
 *.pkl
@@ -133,3 +134,4 @@ docs/**/modelzoo.md
 *.pth
 
 *.DS_Store
+

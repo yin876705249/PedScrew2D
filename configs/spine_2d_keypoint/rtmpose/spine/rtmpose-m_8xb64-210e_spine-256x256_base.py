@@ -128,7 +128,7 @@ model = dict(
 # base dataset settings
 dataset_type = 'SpineDataset'
 data_mode = 'topdown'
-data_root = '/workspace/Spine/data/spine_258'
+data_root = '/workspace/PedScrew2D/data/spine_258'
 
 backend_args = dict(backend='local')
 # backend_args = dict(
